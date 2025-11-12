@@ -54,10 +54,10 @@
 
 ###
 
-<h2 align="left">what i'm working on</h2>
+<h2 align="left">what you need to know...</h2>
 
 ###
 
-<p align="left">right now, a straw.page competitor. i also do stuff with the university of michigan and nasa's collaborative lab for advancing work in space. <br><br>i like learning new tools and seeing how they all come together, especially since concepts from across the breadth of programming and development end up intermingling all the time. my end goal? probably to make my own framework, like vue.js.<br><br>you'll see me regularly making my project repos public and cleaning them up here so you guys can use them, feel free to add whatever you'd like to them that you think would be cool</p>
+<p align="left">i like learning new tools and seeing how they all come together, especially since concepts from across the breadth of programming and development end up intermingling all the time. my end goal? probably to make my own framework, like vue.js.<br><br>you'll see me regularly making my project repos public and cleaning them up here so you guys can use them, feel free to add whatever you'd like to them that you think would be cool</p>
 
 ###
