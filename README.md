@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">i'm ian. umich '28 honors cs student with a passion for snickerdoodles</p>
+<p align="left">i'm ian. umich honors cs student with a passion for snickerdoodles</p>
 
 ###
 
