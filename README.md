@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">i'm ian. umich honors cs student with a passion for snickerdoodles</p>
+<p align="left">umich honors cs student with a passion for snickerdoodles</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">my first interaction with code was when i was 9 and wrote a really poorly made virus for windows vista. after that i thought i would be a doctor. but i'm back in the game</p>
+<p align="left">my first interaction with code was when i was 9 and wrote a really poorly made virus for windows vista. after that i thought i would be a doctor. now  look at me go</p>
 
 ###
 
@@ -51,13 +51,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
-
-<h2 align="left">what you need to know...</h2>
-
-###
-
-<p align="left">i like learning new tools and seeing how they all come together, especially since concepts from across the breadth of programming and development end up intermingling all the time. my end goal? probably to make my own framework, like vue.js.<br><br>you'll see me regularly making my project repos public and cleaning them up here so you guys can use them, feel free to add whatever you'd like to them that you think would be cool</p>
 
 ###
